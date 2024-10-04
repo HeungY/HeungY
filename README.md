@@ -1,14 +1,12 @@
-### Theo.park (박흥영)
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan&size=40&letterSpacing=2px&duration=4000&pause=1000&random=false&width=435&height=75&lines=Welcome+to+Theo's+GitHub)](https://git.io/typing-svg)
+
+<br />
+<br />
+<br />
+👋 안녕하세요 !<br />
+항상 최적화를 생각하는 개발자로 성장하려 노력하고 있습니다 !
 <br />
 <br />
 
@@ -25,6 +23,11 @@
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
 
-<br />
-<br />
-<br />
+<br>
+<br>
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkrkrkrk02)](https://solved.ac/rkrkrkrk02)
+
+### ✉️ Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-keungdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsho9826@gmail.com)](mailto:wnsho9826@gmail.com)
