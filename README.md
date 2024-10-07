@@ -30,4 +30,4 @@
 
 ### ✉️ Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-keungdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsho9826@gmail.com)](mailto:wnsho9826@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-keungdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keungdev@gmail.com)](mailto:keungdev@gmail.com)
